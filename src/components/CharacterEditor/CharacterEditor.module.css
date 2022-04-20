@@ -31,3 +31,12 @@
 .controlColumn {
   max-width: 50%;
 }
+
+.perspectiveEffect {
+  background: hsl(195deg, 20%, 86%);
+  position: fixed;
+  top: 60%;
+  height: 40%;
+  width: 100%;
+  z-index: -1;
+}
